@@ -1,10 +1,5 @@
 Heloo This is first Statement
 Heloo This is second Statement
-<<<<<<< HEAD
 Heloo This is third Statement
 Heloo This is fourth Statement
-Heloo This is 5th Statement
-=======
-Heloo This is third Statement new value
-Heloo This is fourth Statement
->>>>>>> demobranch2
+
